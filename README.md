@@ -76,14 +76,17 @@ I rely on the following technologies for building secure and highly available ap
 
 ***
 
-<div align="center">
-    <h2>📈 GitHub Activity</h2>
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=pushkar708&show_icons=true&theme=dark&hide_border=true&count_private=true&font=monospace" alt="Pushkar's GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.vercel.app/?user=pushkar708&theme=dark&hide_border=true&font=monospace" alt="GitHub Streak"/>
-    
-    <br><br>
-    
-    <h3>Thanks for stopping by! 🚀</h3>
-    
-</div>
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pushkar708&show_icons=true&theme=dark&hide_border=true&count_private=true&font=monospace&line_height=25" alt="Pushkar's GitHub Stats"/>
+    <br/>
+</p>
+
+---
+
+<h3 align="center">
+    Thanks for stopping by! 🚀
+</h3>
