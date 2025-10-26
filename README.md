@@ -63,6 +63,21 @@ I rely on the following technologies for building secure and highly available ap
 
 ## 🌟 Featured Projects
 
+### 👁️ Facial Recognition Attendance System (Live Demo)
+
+This real-time system uses computer vision for instant attendance tracking, demonstrating proficiency in Python and external deployment.
+
+<p>
+    <a href="https://pushkar708-facial-recognition-attendance-app-fafdjo.streamlit.app/">
+        <img src="https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
+    </a>
+    <a href="https://github.com/pushkar708/Facial-recognition-attendance">
+        <img src="https://img.shields.io/badge/Source%20Code-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+    </a>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+</p>
+
+---
 * **RBAC System for Django:** Modularized role-based permissions across 4 roles using custom decorators and middleware.
 * **Real-time Notification System:** Implemented **WebSocket-based notifications** using Django Channels for instant client updates.
 * **API Automation System:** Integrated Slack, Trello, and Airtable APIs to reduce task tracking mismatches by **35%**.
@@ -83,6 +98,9 @@ I rely on the following technologies for building secure and highly available ap
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=pushkar708&show_icons=true&theme=dark&hide_border=true&count_private=true&font=monospace&line_height=25" alt="Pushkar's GitHub Stats"/>
     <br/>
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar708&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Pushkar's Top Languages"/>
+</p>
 </p>
 
 ---
