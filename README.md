@@ -19,14 +19,14 @@
 
 ## 💡 Professional Focus
 
-[cite_start]I am a **Backend Engineer** with 4.5+ years of experience [cite: 7] [cite_start]specializing in designing and scaling robust systems using **Django**, **Flask**, **PostgreSQL**, and **AWS**[cite: 7]. [cite_start]I focus on secure APIs, optimized deployments, and automation in fast-paced SaaS and fintech environments[cite: 9, 10].
+I am a **Backend Engineer** with 4.5+ years of experience  specializing in designing and scaling robust systems using **Django**, **Flask**, **PostgreSQL**, and **AWS**. I focus on secure APIs, optimized deployments, and automation in fast-paced SaaS and fintech environments.
 
 ### My Biggest Wins:
 
-* [cite_start]**Performance:** Achieved a **40% reduction in API response time** by optimizing ORM queries and implementing database caching[cite: 8, 17].
-* [cite_start]**Scalability:** Supported platforms handling **25K+ transactions monthly** [cite: 8] [cite_start]with sub-250ms average latency[cite: 15].
-* [cite_start]**Efficiency:** Automated reporting workflows, saving over **100+ manual hours annually**[cite: 8, 26].
-* [cite_start]**Security:** Engineered **RBAC-based authentication** using JWT, cutting unauthorized access attempts by 90%[cite: 16].
+* **Performance:** Achieved a **40% reduction in API response time** by optimizing ORM queries and implementing database caching.
+* **Scalability:** Supported platforms handling **25K+ transactions monthly**  with sub-250ms average latency.
+* **Efficiency:** Automated reporting workflows, saving over **100+ manual hours annually**.
+* **Security:** Engineered **RBAC-based authentication** using JWT, cutting unauthorized access attempts by 90%.
 
 ---
 
@@ -63,16 +63,16 @@ I rely on the following technologies for building secure and highly available ap
 
 ## 🌟 Featured Projects
 
-* [cite_start]**RBAC System for Django:** Modularized role-based permissions across 4 roles using custom decorators and middleware[cite: 38].
-* [cite_start]**Real-time Notification System:** Implemented **WebSocket-based notifications** using Django Channels for instant client updates[cite: 40].
-* [cite_start]**API Automation System:** Integrated Slack, Trello, and Airtable APIs to reduce task tracking mismatches by **35%**[cite: 42].
-* [cite_start]**Website Uptime Monitor:** Engineered a Python + Cron + SMTP system to track 50+ production URLs; achieved 98% alert accuracy[cite: 41].
+* **RBAC System for Django:** Modularized role-based permissions across 4 roles using custom decorators and middleware.
+* **Real-time Notification System:** Implemented **WebSocket-based notifications** using Django Channels for instant client updates.
+* **API Automation System:** Integrated Slack, Trello, and Airtable APIs to reduce task tracking mismatches by **35%**.
+* **Website Uptime Monitor:** Engineered a Python + Cron + SMTP system to track 50+ production URLs; achieved 98% alert accuracy.
 
 ### GitHub Utilities (Extraction & CLI Tools)
 
-* [cite_start]**Gmap Data Extractor:** Automated extraction of business data from Google Maps using Selenium[cite: 46].
-* [cite_start]**Convert PDF to DOCX CLI:** Tool to convert PDFs to Word documents with formatting preserved[cite: 45].
-* [cite_start]**Amazon Product Info Fetcher:** Extracts pricing and availability data from Amazon listings[cite: 49].
+* **Gmap Data Extractor:** Automated extraction of business data from Google Maps using Selenium.
+* **Convert PDF to DOCX CLI:** Tool to convert PDFs to Word documents with formatting preserved.
+* **Amazon Product Info Fetcher:** Extracts pricing and availability data from Amazon listings.
 
 ***
 
